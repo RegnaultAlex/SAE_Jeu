@@ -1,0 +1,77 @@
+//Intro\\
+Les rayons du soleil brule votre peau a travers les interstices de la cabane et une secheresse torride s'impose.
+Vous etes seul mais possedez une carte indiquant la position approximative d une cite enfoui sous le sable.
+
+//Prevention\\
+Attention, chaque action a une consequence sur votre aventure. 
+Surveillez attentivement vos statistiques.
+
+//Texte 0;0\\
+Vous faites vos premiers pas dans les dunes, vous ne voyez rien a l horizon... N'essayez pas encore de vous aventurer au nord.
+Que souhaitez vous faire ?
+
+1 : Se deplacer
+2 : Acceder a l inventaire
+
+//Texte 0;1\\
+Apres quelques heures de marche, vous sentez un grondement sourd dans l air. Une tempete de sable approche rapidement, assombrissant l horizon. Malheureusement vous n avez rien pour vous cacher, vous perdez de la sante et de l hydratation et la tempete passe.
+
+1 : Se deplacer
+2 : Acceder a l inventaire
+
+//Texte 0;2\\
+Apres avoir echappe a la tempete, vous apercevez un chariot traine par une personne maigre et couverte de poussiere. Un homme voile vous salue de loin.
+
+1 : Voir ce que propose le marchand
+2 : Essayer de voler le marchand (A vos risques et perils !)
+3 : Se deplacer
+4 : Acceder a l inventaire
+
+//Texte 1;0\\
+Alors que vous progressez dans le desert, un coleoptere de taille anormale semble vouloir s en prendre a vous.
+
+1 : Combattre le coleoptere
+2 : L esquiver et se deplacer
+3 : Acceder a l inventaire
+
+//Texte 1;1\\
+Une embuscade vous attend dans une dune etroite. Trois bandits surgissent, armes de lames et de fusils de fortune.
+
+"Donne-moi tout ce que tu as, maintenant !"
+
+1 : Combattre les bandits
+2 : Leur donner 10 pieces d or et de l'eau et s enfuir
+3 : Acceder a l inventaire
+
+//Texte 1;2\\
+En marchant sur une dune plate et etrange, vous commencez a sentir des vibrations venant du sol. Un gigantesque ver de sable surgit sous vos pieds. Il semble aspirer tout sur son passage.
+
+1 : Combattre le ver
+2 : L'esquiver et se deplacer
+3 : Acceder a l inventaire
+
+//Texte -1;0\\
+Dans une ancienne ruine partiellement ensevelie, vous decouvrez un artefact brillant. A peine l effleurez-vous qu un gardien surgit : une creature imposante avec des bras tranchants apparait.
+
+1 : Combattre le grand gardien
+2 : L'esquiver et se deplacer vers le nord
+3 : Acceder a l inventaire
+
+//Texte -1;1\\
+Alors que vous marchiez dans les dunes, deux personnes en chameau vous interpelle mechamment.
+
+"Salut toi, tu sais que c est dangereux de trainer seul ici. Il faudrait que tu partages tes ressources avec nous sinon il risquerait de t arriver de gros ennuis."
+
+1 : Combattre les bandits
+2 : Leur donner 10 pieces d or et s enfuir
+3 : Acceder a l inventaire
+
+//Texte -1;2\\
+Apres plusieurs jours de periple, vous apercevez une structure massive emergeant des dunes. Il s agit du sanctuaire abritant la machine, mais un golem fait de sable et de lumiere vous barre le chemin.
+
+ton periple dans les dunes t as amene jusqu ici et ce n est pas un hasard. Tu es la seule personne capable de ramener la vie sur Terre. Plusieurs choix s offre a toi afin de parvenir a cela."
+
+1 : Resoudre l'enigme
+2 : Attaquer le Golem car vous pensez qu il n est pas gentil
+3 : Ne pas sauver l'humanite et rester le roi de ce monde
+

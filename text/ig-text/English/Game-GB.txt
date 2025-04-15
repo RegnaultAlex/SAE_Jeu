@@ -1,0 +1,77 @@
+//Intro\\
+The sun s rays burns your skin through the interstices of the hut and a hot dryness is required.
+You are alone but have a map showing the approximate location of a city buried under the sand.
+
+//Prevention\\
+Be careful, every action has a consequence on your adventure. 
+Keep a close eye on your statistics.
+
+// Text 0;0\\
+You take your first steps in the dunes, you see nothing on the horizon... Don’t try to venture north yet.
+What do you want to do ?
+
+1 : Move
+2 : Access the inventory
+
+//Text 0;1\\
+After a few hours of walking, you feel a thud in the air. A sandstorm approaches quickly, darkening the horizon. Unfortunately you have nothing to hide, you lose health and hydration and the weather passes.
+
+1 : Move
+2 : Access the inventory
+
+//Text 0;2\\
+After having escaped the tempest, you see a cart trailed by a thin and covered with dust person. A man in the veil greets you from afar.
+
+1 : See what the merchant offers
+2 : Try to steal the merchant (at your own risk !)
+3 : Move
+4 : Access the inventory
+
+//Text 1;0\\
+As you progress in the desert, an unusually large coleoptera seems to want to come at you.
+
+1 : Fighting the coleopteran
+2 : Dodge and move
+3 : Access the inventory
+
+//Text 1;1\\
+An ambush awaits you in a narrow dune. Three bandits appear, weapons of blades and rifles.
+
+"Give me everything you have, now !"
+
+1 : Fight the bandits
+2 : Give them 10 pieces of gold and water and run
+3 : Access the inventory
+
+//Text 1;2\\
+As you walk on a flat, strange dune, you begin to feel vibrations coming from the ground. A gigantic sand worm appears beneath your feet. It seems to suck everything in its path.
+
+1 : Fight the worm
+2 : Dodge and move
+3 : Access the inventory
+
+//Text -1;0\\
+In an ancient partially buried ruin, you discover a shiny artifact. As soon as you see a guardian appear: an imposing creature with sharp arms appears.
+
+1 : Fight the great keeper
+2 : Dodge and move north
+3 : Access the inventory
+
+//Text -1;1\\
+As you walk through the dunes, two people in camels call you mechamment.
+
+"Hi you, you know it s dangerous to hang out here alone. You d have to share your resources with us otherwise it would be a big trouble."
+
+1 : Fight the bandits
+2 : Give them 10 pieces of gold and run away
+3 : Access the inventory
+
+//Text -1;2\\
+After many days of periple, you see a massive structure emerging from the dunes. It is the sanctuary housing the machine, but a golem made of sand and light blocks your way.
+
+your sand dune periple has come here and it is no coincidence. You are the only person capable of bringing life back to Earth. There are many choices you can make to achieve this."
+
+1 : Solve the puzzle
+2 : Attack the Golem because you thinks he is not kind
+3 : Do not save humanity and remain the king of this world
+
